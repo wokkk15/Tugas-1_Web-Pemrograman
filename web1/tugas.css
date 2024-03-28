@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+h2 {
+    color: #333;
+    margin-top: 30px;
+}
+form {
+    margin-top: 10px;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"], input[type="Passworld"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+img {
+    margin-top: 20px;
+    width: 100%;
+}
+video {
+    margin-top: 20px;
+}
+audio {
+    margin-top: 20px;
+}
+ol {
+    margin-top: 20px;
+}
+ul {
+    margin-top: 20px;
+}
+dt {
+    color: #333;
+    font-weight: bold;
+}
+dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
